@@ -131,14 +131,14 @@ table {
 
 html,
 body {
-  background-color: #800000;
+  background-color: #194360;
   color: white;
 }
 
 html {
   padding: 10px;
   line-height: 1;
-  border: 5px dotted white;
+  border: 5px solid white;
   font-family: Georgia, serif;
   margin: 10px;
 }
@@ -173,7 +173,7 @@ h4 {
   justify-content: space-evenly;
   margin-left: 7%;
   margin-right: 7%;
-  background-color: #cc0000;
+  background-color: #2a5777;
   border-radius: 15px;
 }
 
@@ -184,7 +184,7 @@ h4 {
   margin-left: 7%;
   margin-right: 7%;
   align-items: center;
-  background-color: #cc0000;
+  background-color: #2a5777;
   border-radius: 15px;
   margin-bottom: 10px;
 }
@@ -222,7 +222,7 @@ nav a {
 }
 
 a:hover {
-  color: yellow;
+  color: green;
   font-style: italic;
 }
 
@@ -240,7 +240,7 @@ a:hover {
 @media (max-width: 500px) {
   .top-section,
   .bottom-section {
-    background-color: yellow;
+    background-color: white;
     color: black;
     margin-left: 3%;
     margin-right: 3%;

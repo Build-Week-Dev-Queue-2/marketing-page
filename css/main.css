@@ -7,7 +7,7 @@ h2:hover {
   font-family: Georgia, serif;
   letter-spacing: 1px;
   margin-bottom: 15px;
-  background: #800000;
+  background: #194360;
   color: #ffffff;
 }
 .toppart {
@@ -15,8 +15,8 @@ h2:hover {
   flex-direction: row-reverse;
   align-items: center;
   justify-content: space-around;
-  border: 2px dotted #ffffff;
-  background: #cc0000;
+  border: 2px solid #ffffff;
+  background: #2A5777;
   border-radius: 20px;
 }
 @media (max-width: 500px) {
@@ -35,8 +35,8 @@ h2:hover {
   width: 100px;
   padding: 10px;
   margin-top: 10px;
-  background: #800000;
-  color: #ffffff;
+  background: #194360;
+  color: green;
   border-radius: 10px;
   justify-content: center;
   display: flex;
@@ -57,12 +57,4 @@ ul {
   .text-container {
     flex-direction: column;
   }
-}
-.middle-imgs {
-  display: flex;
-  justify-content: space-between;
-  border-radius: 3px;
-}
-.img1 {
-  width: 10%;
 }
